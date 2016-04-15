@@ -1,0 +1,25 @@
+h1 {
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+.btn-treehouse {
+  border: 1px solid #5FCF80;
+  color: #5FCF80;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 20px 40px;
+  transition: all 0.5s ease;
+}
+
+.btn-treehouse:hover {
+  color: white;
+  background: #5FCF80;
+  opacity: 1;
+  text-decoration: none;
+}
+
+.round-pic {
+  width: 200px;
+  border-radius: 50%;
+}
